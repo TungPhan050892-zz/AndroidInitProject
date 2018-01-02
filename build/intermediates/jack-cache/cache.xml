@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\platforms\android-25\android.jar"
+        revision="25.0.2"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackRuntimeLibraries\androidTest\debug\jars\8000\40\android-ce7661520c3da8e0b04fc492cb363f96ac7248b6.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\junit-4.12-18d2ee358ca951927d01879224d89f647cd9f28e.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.android\build-cache\39e8a9fa7544e2c3bff0b5b029edcbeddf47b37b\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-85044817934275dfb0878db8ec228ed6efd81435.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.android\build-cache\d1dffe1e72e73bb56725c8cbaec22a11e776e5b5\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-1b68c211c2e4e2b89ad22570a4598ff1541203ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\javax.annotation-api-1.2-2796dae031250fdd76215599e0c885b17ed68333.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.android\build-cache\495565f5eac6adb1ec9a7728ae4384bf87e2dd99\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-070c627e0e9e00a7774a5c077a4846da137bebd0.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.android\build-cache\7cf55b606792bab77526e3bba9799ccb999ad92e\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-781a0ba21b9b921993e5a4610bb5f4fc612e69d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\hamcrest-integration-1.3-acd00425c39949557d817eb92156df9445761282.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\javawriter-2.1.1-6dc31bdcfa48c78ed98af1d37b55883984a90854.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.2"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackRuntimeLibraries\androidTest\debug\jars\8000\40\org.apache.http.legacy-42fb61f3f6bdc1bd50c6d813150a70143a841fa8.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\jsr305-2.0.1-fa00f82c450e5d76af9cb9ba186dac70b15d33d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\hamcrest-core-1.3-e739580f21820e94efc797890c38430716673ffe.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\hamcrest-library-1.3-67a1178411be705dd6c1982d1c40c1513678ad45.jar" />
+    </item>
+    <item
+        jar="C:\Users\phant\.android\build-cache\9f2240ebe7dee9e71251e20706ddbdc1fa9a9bce\output\jars\classes.jar"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="C:\Users\phant\AndroidStudioProjects\RTHChallenge\app\build\intermediates\transforms\preJackPackagedLibraries\androidTest\debug\jars\8000\1f\classes-76b650eb46e2b00d86059154b20d2026656ca6a4.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/gold_chart_rview_item_height">
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginStart="@dimen/margin_normal"
+        android:gravity="center"
+        android:textColor="@color/blue_sky"
+        android:textSize="@dimen/gold_chart_rview_item_text_size"
+        tools:text="time" />
+
+    <TextView
+        android:id="@+id/price"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal"
+        android:gravity="center"
+        android:textColor="@color/blue_sky"
+        android:textSize="@dimen/gold_chart_rview_item_text_size"
+        android:textStyle="bold"
+        tools:text="time" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/line_height"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginStart="@dimen/margin_normal"
+        android:background="@color/light_blue_sky" />
+</RelativeLayout>
